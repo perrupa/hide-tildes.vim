@@ -9,5 +9,6 @@ endfunction
 augroup hide-tildes
   autocmd!
   autocmd! ColorScheme call s:set_end_of_buffer_to_bg_color()
+  hi! EndOfBuffer guibg=bg guifg=bg
 augroup END
 
