@@ -1,8 +1,8 @@
 # Hide Tildes
 
-Hide** those crafty `~` that start each non-line that trail in all your open buffers.
+Hide those crafty `~` that start each non-line that trail in all your open buffers.
 
-** tildes are "hidden" by making their foreground color the same as their background color, they are still being rendered.
+**Note:** _tildes are "hidden" by making their foreground color the same as their background color, they are still being rendered._
 
 ## Installation
 
